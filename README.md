@@ -19,7 +19,13 @@ Paste a transaction hash from any supported chain and instantly see:
 - Unified, human-readable schema output
 
 No setup. No SDK. Just on-chain data → readable structure.
+
+Decoded data for Swap transaction on ethereum
 <img width="1133" height="699" alt="image" src="https://github.com/user-attachments/assets/e2bbaaf7-aabc-4c23-8a94-cb2adab4e33d" />
+
+
+Decoded data for Lending transaction on Solana
+<img width="901" height="693" alt="image" src="https://github.com/user-attachments/assets/5999250e-b05b-4ede-a7de-49bca26bf246" />
 
 
 ## API documents
